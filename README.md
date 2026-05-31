@@ -1,6 +1,8 @@
 # Heat Stroke Predictor - Wearable System
 
-A real-time heat stress monitoring system built on the **ATmega8 microcontroller**, simulated in **Proteus**. The system continuously monitors environmental conditions to predict and prevent heat stroke.
+A real-time heat stress monitoring system built on the **ATmega8 microcontroller**. The wearable device continuously monitors environmental conditions to predict and prevent heat stroke.
+
+![Wearable Device](images/wearable-device.jpeg)
 
 ## Features
 
@@ -13,7 +15,7 @@ A real-time heat stress monitoring system built on the **ATmega8 microcontroller
 - **LED Indicators** - Green (SAFE), Red (WARNING/DANGER) visual alerts
 - **Signal Conditioning** - LM358N op-amp circuit for accurate analog sensor readings
 
-## Circuit Overview
+## Circuit Simulation (Proteus)
 
 ![Proteus Simulation](images/simulation.png)
 
